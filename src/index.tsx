@@ -1,5 +1,5 @@
 import { IconSelector } from './Selector'
-import { icon } from './Interface'
+import { icon, IconBrute, defaultIcon } from './Interface'
 import { UseIcon } from './UseIcon'
-export { UseIcon, IconSelector }
+export { UseIcon, IconSelector, IconBrute, defaultIcon }
 export type { icon }
