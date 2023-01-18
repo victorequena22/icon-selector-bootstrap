@@ -1,5 +1,5 @@
 {
-  "name": "tabla-bootstrap",
+  "name": "icon-selector-bootstrap",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
@@ -7,7 +7,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victorequena22/tabla-bootstrap.git"
+    "url": "git+https://github.com/victorequena22/icon-selector-bootstrap.git"
   },
   "peerDependencies": {
     "react": ">=16"
