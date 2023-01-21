@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import Popover from '@material-ui/core/Popover'
+import Popover from '@mui/material/Popover'
 import { Button } from 'react-bootstrap'
 import { IconBrute } from '../Interface'
 import { SVGPring } from './SVGPring'
