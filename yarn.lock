@@ -200,6 +200,16 @@
   resolved "https://registry.yarnpkg.com/@types/warning/-/warning-3.0.0.tgz#0d2501268ad8f9962b740d387c4654f5f8e23e52"
   integrity sha512-t/Tvs5qR47OLOr+4E9ckN8AmP2Tf16gWq+/qA4iUGS/OOyHVO8wv2vjJuX8SNOUTJyWb+2t7wJm6cXILFnOROA==
 
+"@victorequena22/component-bootstrap@^1.*":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@victorequena22/component-bootstrap/-/component-bootstrap-1.0.2.tgz#727165d60efe1f079a06feb5254a952f0d0f7f92"
+  integrity sha512-+sWcu+l45ie0Hw5NH2XD10V8Hj/La2S7wunjuTlFAYbupLlWsuUXp/2zr2JAqro4KOiMIiLKh9Ms6cwl3ToUhw==
+
+"@victorequena22/utiles@^1.*":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@victorequena22/utiles/-/utiles-1.0.2.tgz#b8e35f5bd2518ac8c8c057b95f9e04801ec4e865"
+  integrity sha512-yM8mw7b9xXvsIP95ZfZjWXs4IlMPx7SYg0I6afMsTLvOPglpM1zWDddNrFFySH1Xsc2sbOUkSYXMEx7S/8wnUA==
+
 classnames@^2.3.1:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.2.tgz#351d813bf0137fcc6a76a16b88208d2560a0d924"
@@ -209,10 +219,6 @@ clsx@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/clsx/-/clsx-1.2.1.tgz#0ddc4a20a549b59c93a4116bb26f5294ca17dc12"
   integrity sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==
-
-"component-bootstrap@https://github.com/victorequena22/component-bootstrap.git":
-  version "1.0.0"
-  resolved "https://github.com/victorequena22/component-bootstrap.git#ffb0740e45e6f399e5d22b77ea4e11d12fffbd9e"
 
 csstype@^3.0.2, csstype@^3.1.1:
   version "3.1.1"
@@ -371,10 +377,6 @@ uncontrollable@^7.2.1:
     "@types/react" ">=16.9.11"
     invariant "^2.2.4"
     react-lifecycles-compat "^3.0.4"
-
-"utiles@https://github.com/victorequena22/utiles.git":
-  version "1.0.2"
-  resolved "https://github.com/victorequena22/utiles.git#7eb97dde6bfcc33401a6c3368a6fb5e30bb2d4d2"
 
 warning@^4.0.0, warning@^4.0.3:
   version "4.0.3"

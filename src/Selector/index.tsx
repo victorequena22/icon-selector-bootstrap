@@ -1,7 +1,7 @@
 import React, { useCallback, useState, CSSProperties, Suspense } from 'react'
 import Popover from '@mui/material/Popover'
 import { Button } from 'react-bootstrap'
-import { ControlText } from 'component-bootstrap'
+import { ControlText } from '@victorequena22/component-bootstrap'
 import { icon } from '../Interface'
 import { UseIcon } from '../UseIcon'
 import Cargando from '../Cargando'

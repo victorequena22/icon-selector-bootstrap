@@ -1,5 +1,5 @@
 {
-  "name": "icon-selector-bootstrap",
+  "name": "@victorequena22/icon-selector-bootstrap",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
@@ -22,7 +22,8 @@
     "lint": "eslint \"{**/*,*}.{js,ts,jsx,tsx}\"",
     "build": "yarn build:esm && yarn build:cjs",
     "build:esm": "tsc",
-    "build:cjs": "tsc --module commonjs --outDir dist/cjs"
+    "build:cjs": "tsc --module commonjs --outDir dist/cjs",
+    "prepublishOnly": ""
   },
   "author": "Victor Requena",
   "license": "ISC",
@@ -31,11 +32,11 @@
     "tslib": "^2.4.1",
     "@types/react": "^18.0.12",
     "@types/react-bootstrap": "^0.*",
-    "component-bootstrap": "https://github.com/victorequena22/component-bootstrap.git",
+    "@victorequena22/component-bootstrap": "^1.*",
     "react": "^18.1.0",
     "react-bootstrap": "^1.*",
     "typescript": "^4.7.3",
-    "utiles": "https://github.com/victorequena22/utiles.git"
+    "@victorequena22/utiles": "^1.*"
   },
   "dependencies": {}
 }
